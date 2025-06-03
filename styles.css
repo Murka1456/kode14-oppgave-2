@@ -19,18 +19,15 @@ h2 {
   text-align: center;
 }
 
-nav {
+/*nav {
   background-color: yellow;
-  style: none;
+  list-style: none;
   width: 100px;
-}
+}*/
 h3 {
   color: #f0f8ff;
   font-size: larger;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  
-}
-div {
   
 }
 .heroDanmark {
