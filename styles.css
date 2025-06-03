@@ -15,7 +15,7 @@ h2 {
   font-size: 1 rem;
   color: crimson;
   background-color: yellow;
-  width: 20 %;
+
   text-align: center;
 }
 
@@ -25,11 +25,18 @@ nav {
   width: 100px;
 }
 h3 {
-  color: aliceblue;
+  color: #f0f8ff;
   font-size: larger;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   width: 70%;
 }
 div {
   background-color: red;
+}
+.heroimgdanmark{
+  width: 20%;
+  
+}
+.herotextdanmark{
+  width:70% ;
 }
