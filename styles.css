@@ -28,15 +28,28 @@ h3 {
   color: #f0f8ff;
   font-size: larger;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  width: 70%;
+  
 }
 div {
-  background-color: red;
+  
+}
+.heroDanmark {
+  display: flex;
+  align-items:center ;
+  justify-content:space-around;
+
 }
 .heroimgdanmark{
-  width: 20%;
+  width: 200px;
+  background-color: yellow;
+  height: 222px;
   
 }
 .herotextdanmark{
-  width:70% ;
+  width: 400px;
+  height: 222px;
+  background-color: red;
+}
+.intro{
+  display: flex;
 }
