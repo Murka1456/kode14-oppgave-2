@@ -1,0 +1,35 @@
+h1 {
+  font-weight: bold;
+  font-size: 1.5rem;
+  color: crimson;
+  background-color: yellow;
+}
+h1 {
+  text-align: center;
+  border: 2px;
+  border-radius: 20%;
+  height: 60px;
+}
+h2 {
+  font-weight: bold;
+  font-size: 1 rem;
+  color: crimson;
+  background-color: yellow;
+  width: 20 %;
+  text-align: center;
+}
+
+nav {
+  background-color: yellow;
+  style: none;
+  width: 100px;
+}
+h3 {
+  color: aliceblue;
+  font-size: larger;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 70%;
+}
+div {
+  background-color: red;
+}
